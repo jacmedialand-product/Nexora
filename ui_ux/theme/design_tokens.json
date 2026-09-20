@@ -1,0 +1,65 @@
+{
+  "name": "Nexora Premium Theme",
+  "colors": {
+    "primary": {
+      "main": "#D4AF37",
+      "light": "#F9DF9F",
+      "dark": "#A67C00",
+      "gradient": "linear-gradient(135deg, #D4AF37 0%, #F9DF9F 50%, #A67C00 100%)"
+    },
+    "background": {
+      "default": "#000000",
+      "surface": "#121212",
+      "card": "#1E1E1E",
+      "glassmorphism": "rgba(30, 30, 30, 0.6)"
+    },
+    "text": {
+      "primary": "#FFFFFF",
+      "secondary": "#A1A1AA",
+      "accent": "#D4AF37"
+    },
+    "status": {
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444",
+      "info": "#3B82F6"
+    }
+  },
+  "typography": {
+    "fontFamily": {
+      "heading": "'Playfair Display', serif",
+      "body": "'Inter', sans-serif"
+    },
+    "fontSize": {
+      "h1": "4rem",
+      "h2": "3rem",
+      "h3": "2.25rem",
+      "h4": "1.5rem",
+      "bodyLarge": "1.125rem",
+      "body": "1rem",
+      "bodySmall": "0.875rem"
+    },
+    "fontWeight": {
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700
+    }
+  },
+  "layout": {
+    "borderRadius": {
+      "small": "4px",
+      "medium": "8px",
+      "large": "16px",
+      "pill": "9999px"
+    },
+    "spacing": {
+      "xs": "4px",
+      "sm": "8px",
+      "md": "16px",
+      "lg": "24px",
+      "xl": "32px",
+      "xxl": "48px"
+    }
+  }
+}
