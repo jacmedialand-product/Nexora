@@ -1,0 +1,1 @@
+// hostel\buildings module export
