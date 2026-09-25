@@ -1,0 +1,1 @@
+// shared\tenant module export

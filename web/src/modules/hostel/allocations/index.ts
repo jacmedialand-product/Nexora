@@ -1,0 +1,1 @@
+// hostel\allocations module export

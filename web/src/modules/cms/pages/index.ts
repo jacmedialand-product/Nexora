@@ -1,0 +1,1 @@
+// cms\pages module export
